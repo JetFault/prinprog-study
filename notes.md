@@ -1,4 +1,4 @@
-<div>
+<pre>
 References:
 	-references are not pointers
 	-a reference to a reference is meaningless
@@ -501,4 +501,4 @@ private:
 
 when an exception is thrown, c++ tries to find a catch block in the same function that threw the exception. It uses rules similar to java. if there is no try block or fails to find a matching catch block then it goes to the calling function and tries the same this. if the entire stack pops without finding anything than the program terminates
 
-</div>
+</pre>
