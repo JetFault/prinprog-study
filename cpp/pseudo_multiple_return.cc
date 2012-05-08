@@ -1,4 +1,4 @@
-// more than one returning value
+// Sort of more than one returning value
 #include <iostream>
 using namespace std;
 
